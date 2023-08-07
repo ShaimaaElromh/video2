@@ -27,7 +27,7 @@
         text-align: center;
         margin: auto;
         position: relative;
-        width: 460px;
+        width: 290px;
         /* Adjust as needed */
         height: 320px;
         /* Adjust as needed */
@@ -37,9 +37,9 @@
         position: absolute;
         top: 18px;
         /* Adjust vertical position as needed */
-        left: 12%;
+        left: 1px;
         /* Adjust horizontal position as needed */
-        width: 350px;
+        width: 290px;
         /* Adjust video width as needed */
         /* Adjust video height as needed */
     }

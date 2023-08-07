@@ -1,0 +1,238 @@
+/* Extra small devices (phones, 600px and down) */
+
+@media only screen and (max-width: 600px) {
+    .video {
+        text-align: center;
+        margin: auto;
+    }
+    .video .v {
+        width: 300px;
+    }
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .header img {
+        max-width: 40%;
+        height: auto;
+    }
+    .header .text1 {
+        font-size: 13px;
+    }
+    .header .text2 {
+        font-size: 13px;
+    }
+    .laptop-container {
+        text-align: center;
+        margin: auto;
+        position: relative;
+        width: 460px;
+        /* Adjust as needed */
+        height: 320px;
+        /* Adjust as needed */
+        background: url(media/lab\ 2.png) no-repeat center/cover;
+    }
+    .laptop-video {
+        position: absolute;
+        top: 18px;
+        /* Adjust vertical position as needed */
+        left: 12%;
+        /* Adjust horizontal position as needed */
+        width: 350px;
+        /* Adjust video width as needed */
+        /* Adjust video height as needed */
+    }
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+
+@media only screen and (min-width: 600px) {
+    .video {
+        text-align: center;
+        margin: auto;
+    }
+    .video .v {
+        width: 500px;
+    }
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .header .text1 {
+        font-size: 15px;
+    }
+    .header .text2 {
+        font-size: 15px;
+    }
+    .header img {
+        max-width: 40%;
+        height: auto;
+    }
+    .laptop-container {
+        text-align: center;
+        margin: auto;
+        position: relative;
+        width: 500px;
+        /* Adjust as needed */
+        height: 320px;
+        /* Adjust as needed */
+        background: url(media/lab\ 2.png) no-repeat center/cover;
+    }
+    .laptop-video {
+        position: absolute;
+        top: 18px;
+        /* Adjust vertical position as needed */
+        left: 15%;
+        /* Adjust horizontal position as needed */
+        width: 350px;
+        /* Adjust video width as needed */
+        /* Adjust video height as needed */
+    }
+}
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+
+@media only screen and (min-width: 768px) {
+    .video {
+        text-align: center;
+        margin: auto;
+    }
+    .video .v {
+        width: 600px;
+    }
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .header .text1 {
+        font-size: 18px;
+    }
+    .header .text2 {
+        font-size: 18px;
+    }
+    .header img {
+        max-width: 20%;
+        height: auto;
+    }
+    .laptop-container {
+        text-align: center;
+        margin: auto;
+        position: relative;
+        width: 500px;
+        /* Adjust as needed */
+        height: 320px;
+        /* Adjust as needed */
+        background: url(media/lab\ 2.png) no-repeat center/cover;
+    }
+    .laptop-video {
+        position: absolute;
+        top: 18px;
+        /* Adjust vertical position as needed */
+        left: 15%;
+        /* Adjust horizontal position as needed */
+        width: 350px;
+        /* Adjust video width as needed */
+        /* Adjust video height as needed */
+    }
+}
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+
+@media only screen and (min-width: 992px) {
+    .video {
+        text-align: center;
+        margin: auto;
+    }
+    .video .v {
+        width: 700px;
+    }
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .header .text1 {
+        font-size: 18px;
+    }
+    .header .text2 {
+        font-size: 18px;
+    }
+    .header img {
+        max-width: 10%;
+        height: auto;
+    }
+    .laptop-container {
+        text-align: center;
+        margin: auto;
+        position: relative;
+        width: 500px;
+        /* Adjust as needed */
+        height: 320px;
+        /* Adjust as needed */
+        background: url(media/lab\ 2.png) no-repeat center/cover;
+    }
+    .laptop-video {
+        position: absolute;
+        top: 18px;
+        /* Adjust vertical position as needed */
+        left: 15%;
+        /* Adjust horizontal position as needed */
+        width: 350px;
+        /* Adjust video width as needed */
+        /* Adjust video height as needed */
+    }
+}
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+
+@media only screen and (min-width: 1200px) {
+    .video {
+        text-align: center;
+        margin: auto;
+    }
+    .video .v {
+        width: 750px;
+    }
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .header .text1 {
+        font-size: 20px;
+    }
+    .header .text2 {
+        font-size: 15px;
+    }
+    .header img {
+        max-width: 10%;
+        height: auto;
+    }
+    .laptop-container {
+        text-align: center;
+        margin: auto;
+        position: relative;
+        width: 500px;
+        /* Adjust as needed */
+        height: 320px;
+        /* Adjust as needed */
+        background: url(media/lab\ 2.png) no-repeat center/cover;
+    }
+    .laptop-video {
+        position: absolute;
+        top: 18px;
+        /* Adjust vertical position as needed */
+        left: 15%;
+        /* Adjust horizontal position as needed */
+        width: 350px;
+        /* Adjust video width as needed */
+        /* Adjust video height as needed */
+    }
+}
